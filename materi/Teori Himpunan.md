@@ -1,3 +1,10 @@
+---
+title: Teori Himpunan
+
+---
+
+#### EVANI EVELINA ARTANTI 240411100182
+
 ## HIMPUNAN
 
 Mengutip dari buku "Teori Himpunan" oleh Darwanto dkk, himpunan adalah kumpulan objek atau benda yang didefinisikan secara jelas, di mana setiap anggotanya dapat dibedakan dari yang bukan bagian himpunan tersebut.
